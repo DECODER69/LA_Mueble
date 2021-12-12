@@ -1,5 +1,5 @@
 <?php
 
-include_once("wiball.html");
+include_once("lamueble.html");
 
 ?>
